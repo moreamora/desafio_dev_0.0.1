@@ -6,9 +6,9 @@ Construir um blog em nuxt com hosting estático no github pages, heroku ou equiv
 
 1. criar repositório privado no github e compartilhar com felipe@moreamora.com.br
 2. nuxt + tailwindcss
-  a. https://nuxtjs.org/
-  b. https://tailwindcss.com/
-  c. [opcional] utilizar https://content.nuxtjs.org/ para não precisar de um backend
+  - a. https://nuxtjs.org/
+  - b. https://tailwindcss.com/
+  - c. [opcional] utilizar https://content.nuxtjs.org/ para não precisar de um backend
 3. estrutura:
   a. dominio.com (endereco do gihubpages, heroku ou equivalente)
   b. 1 call to action (assinar newsletter)
